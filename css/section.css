@@ -1,0 +1,28 @@
+.section__important {
+   color: rgb(255, 255, 255);
+   font-style: italic;
+}
+
+.section__image {
+   border-radius: 234px;
+   border-color: #ebebeb;
+   border-width: 2px;
+   border-style: solid;
+   width: 250px;
+   margin-bottom: 10px;
+   text-align: left;
+}
+
+.section__subHeader {
+   background-color: #716565;
+   border: 1px solid #716565;
+   border-radius: 15px;
+   padding: 10px;
+   margin: 43px auto;
+   box-shadow: 10px 10px 21px -2px #5e5858;
+   color: azure;
+}
+
+.section__link {
+   color: rgb(255, 255, 255);
+}

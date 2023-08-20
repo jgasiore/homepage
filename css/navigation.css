@@ -1,0 +1,40 @@
+.navigation {
+   margin: auto;
+   max-width: 800px;
+}
+
+.navigation__list{
+   list-style: none;
+   line-height: 1.5;
+   font-size: 20px;
+}
+
+.navigation__item{
+   border-width: 0px 0px 3px;
+   border-style: solid;
+   border-color: rgb(255, 255, 255);
+   margin: 22px;
+   text-align: left;
+   padding: 5px;
+}
+
+.navigation__link {
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+   margin: auto;
+}
+
+.navigation__link:focus {
+   outline: 2px solid white;
+}
+
+.navigation__link:hover {
+   color: #d5cbcb;
+   border-bottom: 1px solid;
+   outline: none;
+}
+
+.navigation__link:active {
+   color: #948989;
+}
+

@@ -1,0 +1,29 @@
+html {
+   box-sizing: border-box;
+}
+
+*, ::after, ::before {
+   box-sizing: inherit;
+}
+
+.container {
+   overflow-x: auto;
+}
+
+.body {
+   overflow-x: auto;
+   color: rgb(255, 255, 255);
+   background-color: #000000de;
+   max-width: 981px;
+   margin: 0 auto;
+   font-family: "Lato", sans-serif;
+}
+
+.light {
+   background: rgb(2, 0, 36);
+   background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(46, 46, 98, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+button {
+   cursor: pointer;
+}

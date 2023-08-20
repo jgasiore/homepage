@@ -1,0 +1,19 @@
+.footer__link {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+ }
+ 
+ 
+ 
+ .footer__bottom {
+    background-color: rgb(238, 232, 232);
+    color: black;
+    padding: 10px;
+    text-align: center;
+ }
+ 
+ .footer_important {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+ }
+ 
